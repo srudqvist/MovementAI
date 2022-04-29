@@ -8,7 +8,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public class Plains extends World
 {
-
+    // Testing
     final private int NUM_MICE = 3;
     private final int NUM_ELEPHANTS = 6;
     
